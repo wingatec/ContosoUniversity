@@ -11,6 +11,7 @@ using ContosoUniversity.Models;
 using System.Data.Entity.Infrastructure;
 using PagedList;
 
+
 namespace ContosoUniversity.Controllers
 {
     public class StudentController : Controller
