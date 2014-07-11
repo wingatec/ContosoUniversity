@@ -21,7 +21,6 @@ C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUnive
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
-C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
@@ -32,3 +31,5 @@ C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUnive
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201407111359387_InitialCreate.resources

@@ -7,9 +7,9 @@ namespace ContosoUniversity.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ContosoUniversity.DAL.SchoolContext>
+    internal sealed class Configuration2 : DbMigrationsConfiguration<ContosoUniversity.DAL.SchoolContext>
     {
-        public Configuration()
+        public Configuration2()
         {
             AutomaticMigrationsEnabled = false;
         }
