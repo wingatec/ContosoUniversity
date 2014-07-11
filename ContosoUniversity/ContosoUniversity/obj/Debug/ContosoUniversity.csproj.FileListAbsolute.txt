@@ -32,6 +32,3 @@ C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUnive
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
-C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
-C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
-C:\Users\Grand\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate1.resources
